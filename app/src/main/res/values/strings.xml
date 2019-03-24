@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GameBacklog</string>
+    <string name="game_title">Title</string>
+    <string name="game_platform">Platform</string>
+    <string name="game_date">Date</string>
+    <string name="game_status">Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_game">AddGameActivity</string>
+    <string name="delete_all">Deleted all games</string>
+    <string name="delete">Deleted:</string>
+    <string name="title_activity_update_game">UpdateGameActivity</string>
+    <string name="undo">Undo</string>
+    <string name="enterinfo">Fill in all fields</string>
+    <string-array name="status_options">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+</resources>
